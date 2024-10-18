@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
 /* Badge styles for "New!" */
 .animate-bounce {
   animation: bounce 0.5s infinite;
